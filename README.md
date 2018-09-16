@@ -20,7 +20,7 @@ K-Taint is a rewriting logic-based executable semantics in the K framework for t
 
 1. Md. Imran Alam, Raju Halder, Harshita Goswami, and Jorge Sousa Pinto. K-Taint: An Executable Rewriting Logic Semantics for Taint Analysis in the K Framework. Proc. of the 13th International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE '18), Pages 359-366. Funchal, Madeira, Portugal, 23-25 Mar 2018. SciTePress.
 
-2. Ros¸u, G., S¸erb˘anut˘a, T.F.: An overview of the k semantic framework. The Journal of Logic and Algebraic Programming 79(6), 397–434 (2010)
+2. Rosu, G., Serbanuta, T.F.: An overview of the k semantic framework. The Journal of Logic and Algebraic Programming 79(6), 397–434 (2010)
 
 3. Hunt, S., Sands, D.: On flow-sensitive security types. In: Conf. Record of the 33rd ACM SIGPLAN-SIGACT Sym. on POPL. pp. 79–90. ACM, S. California (2006)
 
