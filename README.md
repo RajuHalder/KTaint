@@ -1,4 +1,4 @@
-# KTaint: A Static Taint Analyzer for an Imperative Programming Language in the K Framework
+# KTaint: A Static Taint Analyzer in the K Framework
 
 K-Taint is a rewriting logic-based executable semantics in the K framework for taint analysis of an imperative  programming language. 
 
