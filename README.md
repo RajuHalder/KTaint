@@ -6,7 +6,7 @@ K-Taint is a rewriting logic-based executable semantics in the K framework for t
 
 - Download "Lang.k" under "./src"
 - Open: http://www.kframework.org/tool/run/
-- On the right pane of the workspace, create a directory and upload "Lang.k" and an input program (sample programs can be found in "./Experiments/TestCodes/")
+- On the right panel of the workspace, create a directory and upload "Lang.k" and an input program (sample programs can be found in "./Experiments/TestCodes/")
 - Click on "Compile" and then on "Run"
 
 
