@@ -1,4 +1,6 @@
-// Copyright (c) 2014-2016 K Team. All Rights Reserved.
+// K-Taint: A Static Taint Analyzer in the K Framework 
+// Developed By: Md. Imran Alam and Harshita Goswami
+// Copyright Reserved.
 
 module LANG-SYNTAX
 
