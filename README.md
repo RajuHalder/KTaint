@@ -12,7 +12,7 @@ K-Taint is a rewriting logic-based executable semantics in the K framework for t
 
 # Contributors
 
-- __Developed By:__ Md. Imran Alam, Harshita Goswami, and Raju Halder
+- __Developed By:__ Md. Imran Alam and Harshita Goswami
 - __Release Date:__ December 2017
 - __Contact:__ imran.pcs16@iitp.ac.in / mdimranalam061@gmail.com 
 
