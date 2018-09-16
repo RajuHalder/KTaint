@@ -1,7 +1,13 @@
-# KTaint: A Taint Analyzer for an Imperative  Programming Language in the $\mathbb{K}$ Framework
+# KTaint: A Static Taint Analyzer for an Imperative Programming Language in the K Framework
 
-The $\mathbb{K}$ framework is a rewrite logic-based framework for defining programming language semantics suitable for formal reasoning about programs and programming languages. In this paper, we present \textsf{K-Taint}, a rewriting logic-based executable semantics in the $\mathbb{K}$ framework for taint analysis of an imperative  programming language. Our $\mathbb{K}$ semantics can be seen as a sound approximation of programs semantics in the corresponding security type domain.  More specifically, as a foundation to this objective, we extend to the case of taint analysis the semantically sound flow-sensitive security type system by Hunt and Sands, considering a support to the interprocedural analysis as well. 
-%The soundness of \textsf{K-Taint} relies on the soundness of the security type system.  
-%The semantics (or rewriting) rules respecting the security type system are defined in the $\mathbb{K}$ framework so as to capture taint information propagation along all possible program paths, yielding a conservative and flow-sensitive taint analysis. 
-With respect to the existing methods, \textsf{K-Taint} supports context- and flow-sensitive analysis, reduces false alarms, and provides a scalable solution. Experimental evaluation on several benchmark codes demonstrates encouraging results as an improvement in the precision of the analysis.
-%We present experimental evaluation results to establish the effectiveness of our approach. Experiments demonstrate that our technique improves the precision w.r.t. the existing works by reducing false alarms.
+K-Taint is a rewriting logic-based executable semantics in the K framework for taint analysis of an imperative  programming language. 
+
+# How to run
+
+- Open: http://www.kframework.org/tool/run/
+- Copy the rules written in "Lang.k" under ./src
+- compile it
+- run it
+
+# Contibutors
+
